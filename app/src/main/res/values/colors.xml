@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary Colors - Orange/Red Gradient -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E85D2F</color>
+    <color name="primary_light">#FF8A5B</color>
+    <color name="accent">#F7931E</color>
+    
+    <!-- Secondary Colors - Dark Purple/Blue -->
+    <color name="secondary">#1A1A2E</color>
+    <color name="secondary_dark">#16213E</color>
+    <color name="secondary_light">#384259</color>
+    
+    <!-- Accent Colors - Teal/Cyan -->
+    <color name="teal">#0F4C75</color>
+    <color name="teal_light">#3282B8</color>
+    <color name="cyan_accent">#00D9FF</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6C757D</color>
+    <color name="text_hint">#ADB5BD</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#28A745</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#DC3545</color>
+    <color name="info">#17A2B8</color>
+    
+    <!-- Shadow Colors -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="shadow_medium">#33000000</color>
+    <color name="shadow_dark">#4D000000</color>
+    
+    <!-- Overlay Colors -->
+    <color name="overlay">#80000000</color>
+    <color name="overlay_light">#40000000</color>
+    
+    <!-- Border Colors -->
+    <color name="border">#E0E0E0</color>
+    <color name="border_dark">#BDBDBD</color>
+    
+    <!-- Gradient Start/End Colors -->
+    <color name="gradient_primary_start">#FF6B35</color>
+    <color name="gradient_primary_end">#F7931E</color>
+    <color name="gradient_secondary_start">#1A1A2E</color>
+    <color name="gradient_secondary_end">#16213E</color>
+    <color name="gradient_teal_start">#0F4C75</color>
+    <color name="gradient_teal_end">#3282B8</color>
+</resources>
